@@ -1,4 +1,4 @@
-This was the project that was part of the requirements for obtaining a "Data Scientist" certification from Datacamp. You can access the live version here: 
+This was the case study project that was part of the requirements for obtaining the "Data Scientist" certification from Datacamp. You can access the live version here: 
 https://app.datacamp.com/workspace/w/190c89af-fd29-4023-a805-09eb7a4e0bdb
 
 # Case Study Project - Used Car Sales
